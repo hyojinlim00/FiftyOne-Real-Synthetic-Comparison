@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+venv/
+.env
+fiftyone/
